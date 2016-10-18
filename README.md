@@ -54,17 +54,17 @@ DivGMX представляет собой универсальное устро
 - ...
 
 ####Поддержка в конфигурациях:
-CMOS (стандарт Mr. Gluk)
-DivMMC
-DMA Ultra Sound Card
-Data-Gear
-Gamepad
-General Sound
-Kempston joystick
-Kempston mouse
-Multiface
-ZX Interface 2
-SounDrive
-Turbo Sound
-Z-Controller
+- CMOS (стандарт Mr. Gluk)
+- DivMMC
+- DMA Ultra Sound Card
+- Data-Gear
+- Gamepad
+- General Sound
+- Kempston joystick
+- Kempston mouse
+- Multiface
+- ZX Interface 2
+- SounDrive
+- Turbo Sound
+- Z-Controller
 ...
